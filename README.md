@@ -35,14 +35,6 @@ Icon made by [Darius Dan](https://www.flaticon.com/authors/darius-dan) from [www
 
 # Documentation
 
-## Installation
-
-There are couple ways to install this plugin.
-
-1. Use `php artisan plugin:install Renatio.Logout` command.
-2. Use `composer require renatio/logout-plugin` in project root. When you use this option you must
-   run `php artisan october:migrate` after installation.
-
 ## Settings
 
 After installation plugin will register backend **User Session** settings position under **Team** tab.
